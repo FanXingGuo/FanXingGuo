@@ -1,0 +1,82 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>兴国的夏天</title>
+    <link>http://fanxingguo.top/</link>
+    <description>这是我的全新 Hugo 网站</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>study1997.fxg@hotmail.com (兴国)</managingEditor>
+      <webMaster>study1997.fxg@hotmail.com (兴国)</webMaster><lastBuildDate>Mon, 18 Jul 2022 19:43:35 &#43;0800</lastBuildDate>
+      <atom:link href="http://fanxingguo.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+  <title>C&#43;&#43; 构造函数、new deldte、this指针</title>
+  <link>http://fanxingguo.top/constructionnewdeletethis/</link>
+  <pubDate>Mon, 18 Jul 2022 19:43:35 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/constructionnewdeletethis/</guid>
+  <description><![CDATA[<p>介绍 C++语言中的构造函数更多用法、空间的申请与释放：new deldte、this指针的使用</p>]]></description>
+</item><item>
+  <title>C&#43;&#43; 类 和对象 构造函数、析构函数</title>
+  <link>http://fanxingguo.top/cppcalss/</link>
+  <pubDate>Sat, 16 Jul 2022 11:02:45 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/cppcalss/</guid>
+  <description><![CDATA[<p>了解C++类的声明、定义，对象 构造函数和析构函数</p>]]></description>
+</item><item>
+  <title>C&#43;&#43; 命名空间和cin、cout</title>
+  <link>http://fanxingguo.top/namespacecincout/</link>
+  <pubDate>Sat, 16 Jul 2022 10:58:31 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/namespacecincout/</guid>
+  <description><![CDATA[<p>使用c++命名空间namespace，和输入输出 cin和cout</p>]]></description>
+</item><item>
+  <title>esp32 micropython 超声波测距&#43;数码管显示</title>
+  <link>http://fanxingguo.top/esp32distance/</link>
+  <pubDate>Thu, 14 Jul 2022 10:47:09 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/esp32distance/</guid>
+  <description><![CDATA[<p>使用esp32 物联网模块，MicroPython 语言，开发一个数码管超声波实时距离的工具。</p>]]></description>
+</item><item>
+  <title>C&#43;&#43; 数组（vector）和迭代器</title>
+  <link>http://fanxingguo.top/vectoriterator/</link>
+  <pubDate>Tue, 12 Jul 2022 17:56:11 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/vectoriterator/</guid>
+  <description><![CDATA[<p>帮助文档：https://cplusplus.com/</p>
+<p>存储任意相同数据类型的数据，容量大小可变的数组</p>]]></description>
+</item><item>
+  <title>C&#43;&#43; 泛型编程</title>
+  <link>http://fanxingguo.top/cppgeneric/</link>
+  <pubDate>Mon, 11 Jul 2022 20:57:06 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/cppgeneric/</guid>
+  <description><![CDATA[<p>介绍泛型的概念，以及在C++中如何使用。</p>]]></description>
+</item><item>
+  <title>C&#43;&#43;项目构建</title>
+  <link>http://fanxingguo.top/cppdemocreation/</link>
+  <pubDate>Sun, 10 Jul 2022 18:58:06 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/cppdemocreation/</guid>
+  <description><![CDATA[<p>如果一个main文件如果包含太多类、函数，代码可以达到几千行，不利于项目管理。一种方法是，将一些类或者函数，写在另一个文件里面（头文件、库），到时候像引入iostream头文件一样引入自己写的库，在编译运行的时候，把自己的库编译好，连接到 可执行文件里面即可。</p>]]></description>
+</item><item>
+  <title>学习过程，矛盾的转移</title>
+  <link>http://fanxingguo.top/learnmethods/</link>
+  <pubDate>Sat, 28 May 2022 20:12:14 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/learnmethods/</guid>
+  <description><![CDATA[<p>学习方法，应从三个要点、三个维度去分析，做到实事求是、根据自身情况调整学习策略，才能取得长远的进步。</p>]]></description>
+</item><item>
+  <title>二元分类器性能的衡量</title>
+  <link>http://fanxingguo.top/classificationperformancemeasures/</link>
+  <pubDate>Fri, 27 May 2022 18:46:55 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/classificationperformancemeasures/</guid>
+  <description><![CDATA[<p>介绍 混淆矩阵、精度和召回率、F1值、ROC曲线</p>]]></description>
+</item><item>
+  <title>一个简单的线性回归例子</title>
+  <link>http://fanxingguo.top/linermodel/</link>
+  <pubDate>Tue, 17 May 2022 21:27:26 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/linermodel/</guid>
+  <description><![CDATA[<h3 id="一个简单的线性回归例子">一个简单的线性回归例子</h3>
+<p>下面，我们将梯度下降解决一个线性回归问题。</p>]]></description>
+</item></channel>
+</rss>
