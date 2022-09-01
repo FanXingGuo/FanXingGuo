@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>const 修饰符 - 标签 - 兴国的夏天</title>
+    <link>http://fanxingguo.top/tags/const-%E4%BF%AE%E9%A5%B0%E7%AC%A6/</link>
+    <description>const 修饰符 - 标签 - 兴国的夏天</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>study1997.fxg@hotmail.com (兴国)</managingEditor>
+      <webMaster>study1997.fxg@hotmail.com (兴国)</webMaster><lastBuildDate>Thu, 01 Sep 2022 11:44:23 &#43;0800</lastBuildDate><atom:link href="http://fanxingguo.top/tags/const-%E4%BF%AE%E9%A5%B0%E7%AC%A6/" rel="self" type="application/rss+xml" /><item>
+  <title>const、const_cast、const 成员函数</title>
+  <link>http://fanxingguo.top/cppconst/</link>
+  <pubDate>Thu, 01 Sep 2022 11:44:23 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/cppconst/</guid>
+  <description><![CDATA[<p>由const关键字修饰的引用，称之为对常量的引用，简称为常量引用。</p>
+<p>与普通引用不同的是，对常量引用不能修改它所绑定的对象的&mdash;&mdash;对引用的操作作出了限定。</p>]]></description>
+</item></channel>
+</rss>
