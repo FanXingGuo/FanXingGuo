@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>git - 标签 - 兴国的夏天</title>
+    <link>http://fanxingguo.top/tags/git/</link>
+    <description>git - 标签 - 兴国的夏天</description>
+    <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>study1997.fxg@hotmail.com (兴国)</managingEditor>
+      <webMaster>study1997.fxg@hotmail.com (兴国)</webMaster><lastBuildDate>Sun, 02 Apr 2023 11:10:20 &#43;0800</lastBuildDate><atom:link href="http://fanxingguo.top/tags/git/" rel="self" type="application/rss+xml" /><item>
+  <title>使用码云代码开源和托管</title>
+  <link>http://fanxingguo.top/git2mayun/</link>
+  <pubDate>Sun, 02 Apr 2023 11:10:20 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/git2mayun/</guid>
+  <description><![CDATA[<p>本教程演示了，使用码云（中国版的GitHub）进行代码托管和进行版本控制的基本操作。</p>]]></description>
+</item></channel>
+</rss>

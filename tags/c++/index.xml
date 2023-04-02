@@ -16,7 +16,7 @@
   <title>C&#43;&#43; 引用、友元函数、拷贝构造函数</title>
   <link>http://fanxingguo.top/cppref/</link>
   <pubDate>Thu, 01 Sep 2022 11:38:14 &#43;0800</pubDate>
-  <author>study1997.fxg@hotmail.com</author>
+  <author>兴国</author>
   <guid>http://fanxingguo.top/cppref/</guid>
   <description><![CDATA[<p>引用是为某个对象起另外一个名字。引用并非新对象，而是绑定现有对象。</p>
 <p>引用只能绑定到相同类型上。</p>

@@ -4,7 +4,14 @@
     <link>http://fanxingguo.top/posts/</link>
     <description>所有文章 | 兴国的夏天</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>study1997.fxg@hotmail.com (兴国)</managingEditor>
-      <webMaster>study1997.fxg@hotmail.com (兴国)</webMaster><lastBuildDate>Thu, 01 Sep 2022 11:44:23 &#43;0800</lastBuildDate><atom:link href="http://fanxingguo.top/posts/" rel="self" type="application/rss+xml" /><item>
+      <webMaster>study1997.fxg@hotmail.com (兴国)</webMaster><lastBuildDate>Sun, 02 Apr 2023 11:10:20 &#43;0800</lastBuildDate><atom:link href="http://fanxingguo.top/posts/" rel="self" type="application/rss+xml" /><item>
+  <title>使用码云代码开源和托管</title>
+  <link>http://fanxingguo.top/git2mayun/</link>
+  <pubDate>Sun, 02 Apr 2023 11:10:20 &#43;0800</pubDate>
+  <author>兴国</author>
+  <guid>http://fanxingguo.top/git2mayun/</guid>
+  <description><![CDATA[<p>本教程演示了，使用码云（中国版的GitHub）进行代码托管和进行版本控制的基本操作。</p>]]></description>
+</item><item>
   <title>const、const_cast、const 成员函数</title>
   <link>http://fanxingguo.top/cppconst/</link>
   <pubDate>Thu, 01 Sep 2022 11:44:23 &#43;0800</pubDate>
@@ -16,7 +23,7 @@
   <title>C&#43;&#43; 引用、友元函数、拷贝构造函数</title>
   <link>http://fanxingguo.top/cppref/</link>
   <pubDate>Thu, 01 Sep 2022 11:38:14 &#43;0800</pubDate>
-  <author>study1997.fxg@hotmail.com</author>
+  <author>兴国</author>
   <guid>http://fanxingguo.top/cppref/</guid>
   <description><![CDATA[<p>引用是为某个对象起另外一个名字。引用并非新对象，而是绑定现有对象。</p>
 <p>引用只能绑定到相同类型上。</p>
@@ -71,12 +78,5 @@
   <author>兴国</author>
   <guid>http://fanxingguo.top/cppgeneric/</guid>
   <description><![CDATA[<p>介绍泛型的概念，以及在C++中如何使用。</p>]]></description>
-</item><item>
-  <title>C&#43;&#43;项目构建</title>
-  <link>http://fanxingguo.top/cppdemocreation/</link>
-  <pubDate>Sun, 10 Jul 2022 18:58:06 &#43;0800</pubDate>
-  <author>兴国</author>
-  <guid>http://fanxingguo.top/cppdemocreation/</guid>
-  <description><![CDATA[<p>如果一个main文件如果包含太多类、函数，代码可以达到几千行，不利于项目管理。一种方法是，将一些类或者函数，写在另一个文件里面（头文件、库），到时候像引入iostream头文件一样引入自己写的库，在编译运行的时候，把自己的库编译好，连接到 可执行文件里面即可。</p>]]></description>
 </item></channel>
 </rss>
